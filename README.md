@@ -1,6 +1,8 @@
 # Simple-PowerBi-Dashboard
 
-This is a simple dashboard that i made in Power Bi to find patterns in Bitcon price over the years.
+This is a simple dashboard that i made using Power Bi to find patterns in Bitcon (OHLC) price over the years.
+
+### PowerBI file: [Link](https://drive.google.com/file/d/1CaKdy5Z9WI78FTQg_yDHgWfMVNq5JUCW/view?usp=sharing)
 
 <h2 align="center">📊 Power BI Dashboard </h2> 
 <p align="center">
@@ -12,4 +14,4 @@ This is a simple dashboard that i made in Power Bi to find patterns in Bitcon pr
 - Based on the combination choosen, the 4 bar charts indicating Avg % of High, low, close and range by week will change
 - Based on those 4 charts, the 4 cards in the middle will show Avg % of respective chart. 
 
-### PowerBI file: [Link](https://drive.google.com/file/d/1CaKdy5Z9WI78FTQg_yDHgWfMVNq5JUCW/view?usp=sharing)
+
