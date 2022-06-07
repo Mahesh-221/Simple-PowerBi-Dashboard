@@ -11,7 +11,7 @@ This is a simple dashboard that i made using Power Bi to find patterns in Bitcon
 
 
 - On the left we have Slicers for Year, Month, Day. So you can choose any combination from it.
-- Based on the combination choosen, the 4 bar charts indicating Avg % of High, low, close and range by week will change
-- Based on those 4 charts, the 4 cards in the middle will show Avg % of respective chart. 
+- Based on the combination chosen, the 4 bar charts indicating Avg % of High, low, close, and range by week will change
+- Based on those 4 charts, the 4 cards in the middle will show Avg % of the respective chart. 
 
 
