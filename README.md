@@ -2,11 +2,11 @@
 
 This is a simple dashboard that i made using Power Bi to find patterns in Bitcon (OHLC) price over the years.
 
-### PowerBI file: [Link](https://drive.google.com/file/d/1CaKdy5Z9WI78FTQg_yDHgWfMVNq5JUCW/view?usp=sharing)
+### PowerBI file: [Link](https://drive.google.com/file/d/1Gax_Zf5LLz08iyB5OC5g4VuMVIx1y1qj/view?usp=sharing)
 
 <h2 align="center">📊 Power BI Dashboard </h2> 
 <p align="center">
- <img src="https://github.com/Mahesh-221/Simple-PowerBi-Dashboard/blob/main/Dashboard.jpg?raw=true" width="800"/>
+ <img src="https://github.com/Mahesh-221/Simple-PowerBi-Dashboard/blob/main/dashboard3.jpg?raw=true" width="800"/>
 </p>
 
 
