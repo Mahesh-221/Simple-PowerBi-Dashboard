@@ -13,6 +13,6 @@ This is a simple dashboard that i made using Power Bi to find patterns in Bitcon
 - On the left we have Slicers for Year, Month, Day. So you can choose any combination from it.
 - Based on the combination chosen, the 4 bar charts indicating Avg % of High, low, close, and volume by week will change.
 - Based on those 4 charts, the 4 cards on the top will show Avg % of the respective chart.
-- The Donut of green and red around BTC logo indicates the number of positive and negative days.
+- The Donut of green and red around the BTC logo indicates the number of positive and negative days.
 
 
